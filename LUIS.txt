@@ -2,3 +2,7 @@ hola
 git config --global init.defaultBranch main
 git branch -M main
 
+git remote add origin https://TOKEN@github.com/USUARIO-QUE-CREO-EL-REPOSITORIO/NOMBRE-DEL-PROYECTO.git
+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
+luiscorti/primero.git
+git remote add origin https://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@github.com/luiscorti/primero.git
